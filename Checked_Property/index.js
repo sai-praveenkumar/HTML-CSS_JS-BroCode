@@ -10,7 +10,7 @@ const paymentresult = document.getElementById("paymentResult");
 submit.onclick = function(){
     
     if(mycheckbox.checked){
-        subResult.textContent = `You are subscribed`;
+        subResult.textContent = `You are subscribed`; 
     }
     else{
         subResult.textContent = `You are not subscribed`;
