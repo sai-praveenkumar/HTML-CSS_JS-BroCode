@@ -4,7 +4,7 @@ const mastercardbtn = document.getElementById("masterCardBtn");
 const paypalbtn = document.getElementById("payPalBtn");
 const submit = document.getElementById("mySubmit");
 const subResult = document.getElementById("subResult");
-const paymentresult = document.getElementById("paymentResult");
+const paymentresult = document.getElementById("paymentResult"); 
 
 
 submit.onclick = function(){
